@@ -81,7 +81,8 @@ count = default/16  構造物生成数
 
 ## その他
 
-- Minecraft 1.21.5
+- OpenJDK 21
+- Minecraft Java Edition 1.21.5
 - NeoForge
 - [BetterF3](https://modrinth.com/mod/betterf3)  
 より良いF3情報
