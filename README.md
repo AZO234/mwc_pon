@@ -26,7 +26,7 @@ Modrinth APIにより、
 
 2. Prism Launcher [起動構成を追加]
 3. [インポート]
-4. https://github.com/azo234/mwc_pon/mwc_pon.zip
+4. https://github.com/AZO234/mwc_pon/raw/refs/heads/main/mwc_pon.zip
 5. [シングルプレイ] → [ワールド新規作成]
 6. [コマンドの許可：オン]→[ワールド新規作成]
 7. WorldEditのmodにより、木の斧は座標記憶ツールとなっています。
